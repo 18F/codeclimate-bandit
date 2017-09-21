@@ -5,3 +5,4 @@ This is a [Code Climate](https://codeclimate.com/) engine for running [Bandit](h
 ## See also
 
 * [Building a Code Climate Engine](https://docs.codeclimate.com/docs/building-a-code-climate-engine)
+* [Question to Bandit team about building an engine](https://answers.launchpad.net/bandit/+question/280927)
